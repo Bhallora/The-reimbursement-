@@ -1,0 +1,18 @@
+.Home
+{
+    display:inline-flex;
+    
+    font-family:  'Gayathri', sans-serif;
+    justify-content: center;
+    margin-left:50rem;
+    margin-top: 20rem;
+
+    
+    
+}
+#logo{
+    font-family: 'Pacifico', cursive;
+    color:rgb(11, 179, 170);
+}
+
+
