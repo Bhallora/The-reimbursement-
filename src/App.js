@@ -1,10 +1,10 @@
 import React, { Component } from 'react';
-import Toolbar from './components/Toolbar';
-import SideDrawer from './components/SideDrawer';
-import Backdrop from './components/Backdrop';
-import Stuff from './components/view-Applications';
+import Toolbar from './components/toolbar';
+import SideDrawer from './components/side-drawer';
+import Backdrop from './components/backdrop';
+import Stuff from './components/view-applications';
 import { Route, HashRouter } from 'react-router-dom';
-import Home from './components/Home';
+import Home from './components/home';
 import NewEntry from './components/new-Entry';
 
 
